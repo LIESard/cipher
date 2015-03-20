@@ -1,0 +1,5 @@
+HOW TO INSTALL:
+Run `make`
+
+HOW TO RUN:
+Run `cipher [message]` with [message] being the word or phrase you want to cipher
